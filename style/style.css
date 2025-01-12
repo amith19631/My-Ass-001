@@ -1,0 +1,98 @@
+
+
+.open-sans-normal{
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+body{
+    height: auto;
+    width: 80%;
+    margin: 10%;
+    background-color: rgb(236,236,236);
+}
+
+
+
+.v-container{
+    display: flex;
+}
+.p-button{
+    width: 130px;
+    height: 50px;
+    font-size: medium;
+    color: white;
+    background-color: rgb(96, 49, 141);
+    border-radius: 10px;
+    margin-top: 40px;
+}
+.s{
+    display: flex;
+    background-color: white;
+    padding: 25px;
+    margin: 30px;
+    border-radius: 30px;
+    box-shadow: 5px 6px 9px;
+}
+.pic{
+    border-radius: 30px;
+}
+.s-a{
+    padding: 20px;
+}
+.s-b{
+    width: 130px;
+    height: 50px;
+    font-size: medium;
+    font-weight: 600px;
+    color: white;
+    background-color:  rgb(96, 49, 141);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.d-c{
+    display: flex;
+    padding: 50px;
+    margin: 50px;
+    margin-top: -50px;
+}
+.d-t{
+
+}
+.d{
+    padding: 15px;
+    margin: 30px 20px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 4px 3px 10px 0px black;
+}
+.t{
+    width: 500px;
+    height: 40px;
+    color: rgb(113, 105, 105);
+    background-color: white;
+    text-align: center;
+    margin-top: -100px;
+    margin-left: 280px;
+    box-shadow: 5px 4px 8px 0px;
+    font-size: large;
+    border-radius: 3px;
+
+}
+.b-l{
+    width: 100px;
+    height: 40px;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 20px;
+    background-color: rgb(135, 72, 193);
+}
+.BD{
+    
+    margin-top: 50px;
+    text-decoration: underline;
+    margin-left: 470px;
+}
