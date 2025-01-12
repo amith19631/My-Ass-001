@@ -31,7 +31,7 @@ nav{
 .bannar-content{
     display: flex;
     margin-bottom: 30px;
-    background-color: ;
+    background-color: white;
     padding: 60px;
     border-radius: 50px;
     margin-top: 5px;
@@ -136,5 +136,5 @@ nav{
     
     margin-top: 50px;
     text-decoration: underline;
-    margin-left: 40px;
+    margin-left: 400px;
 }
